@@ -2,7 +2,7 @@
 
 I work on side projects when I have time and I try to share them here. Most of my code here has been failed tech ideas or me trying out new technologies. My recent tech adventures have been with Flutter and Elixir. 
 
-I work at [Spotify](https://www.spotify.com/us/) previously Imags Technologies, If you like to reach out and connect follow me [@anilmuppallar](https://twitter.com/anilmuppallar)
+I work at [@spotify](https://www.spotify.com/us/), previously Imags Technologies, If you like to reach out and connect follow me [@anilmuppallar](https://twitter.com/anilmuppallar)
 
 <!--
 **anilmuppalla/anilmuppalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
