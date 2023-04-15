@@ -1,6 +1,6 @@
 ### Heya!
 
-I work on side projects when I have time and I try to share them here. I like to build tiny micro apps while trying new technologies.
+I work on side projects when I have time and I try to share them here. I like to build micro apps while trying new technologies.
 
 You can learn more about me and my work on [anilmuppalla.com](https://anilmuppalla.com)
 
