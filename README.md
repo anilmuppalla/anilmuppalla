@@ -10,6 +10,8 @@ You can learn more about me and my work on [anilmuppalla.com](https://anilmuppal
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 <!--
 **anilmuppalla/anilmuppalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
